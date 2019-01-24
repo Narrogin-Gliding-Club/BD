@@ -7,3 +7,8 @@ https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/<file>
 For instance, to down load a Kobo image the URL is:
 
 https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/KoboRoot.tgz
+
+To down load an Android XCSoar image the URL is:
+
+https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/XCSoar.apk
+
