@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/Kobo/Official-
 
 https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/XCSoar.apk
 
-https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/vali-xcs_6.8.11.2.0_amd64.deb
-https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/xcsoar_6.8.11.2.0_amd64.deb
-https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/xcsoar-doc_6.8.11.2.0_all.deb
+https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/vali-xcs_6.8.11.2.1_amd64.deb
+https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/xcsoar_6.8.11.2.1_amd64.deb
+https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/xcsoar-doc_6.8.11.2.1_all.deb
 
