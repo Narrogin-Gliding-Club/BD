@@ -6,9 +6,8 @@ https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/<file>
 
 Links to files:
 
-[Kobo NGC Fork edition](https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/Kobo/NGC-XCSoar-Distribution/KoboRoot.tgz)
-
-[Kobo XCSoar edition](https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/Kobo/Official-XCSoar-Distribution/KoboRoot.tgz)
+[Kobo NGC Fork edition](https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/KoboRoot.tgz)
 
 [Android NGC Fork edition](https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/XCSoar.apk)
 
+[User Manual](https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/XCSoar-manual.pdf)
