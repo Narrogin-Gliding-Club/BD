@@ -1,8 +1,6 @@
 Narrogin Gliding Club Binary Distribution
 
-These files are compiled binaries. To download a file from here use:
-
-https://raw.githubusercontent.com/Narrogin-Gliding-Club/BD/master/<file>
+These files are compiled binaries.
 
 Links to files:
 
